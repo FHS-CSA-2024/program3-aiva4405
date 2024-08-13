@@ -41,12 +41,12 @@ import java.util.Scanner; //This imports the console scanner that reads user inp
 
 //Paste console output below:
 /*
-
 Enter the length of the rectangle: 
 123
 Enter the width of the rectangle: 
 50
+The rectangle's length is 123
+The rectangle's width is 50
 The rectangle's area is 6150
 The rectangle's perimeter is 346
-
 */
